@@ -31,10 +31,18 @@ Farm zombies, hunt bosses, run the arena and your full daily routine — **24/7*
 |---|---|
 | 🧟 **Zombie farming** | Sends teams to zombies by level, manages marches and safe returns, handles stamina refills. |
 | 👹 **Boss hunt** | Targets boss zombies by level, launches attacks and manages marches automatically. |
-| 💎 **Treasure & gifts** | Detects treasures and gifts on the map or in chat and collects them automatically. |
+| 🚩 **Auto rally** | Joins the boss rallies you pick — per-team priority and max level, plus per-boss overrides. |
+| 💎 **Treasure & digging** | Auto-collects shovels/treasures (excavation) and lucky gifts & eggs, on the map or in chat. |
+| 🎆 **Fireworks** | Automatically collects the fireworks event rewards. |
+| 📦 **Resource collect** | Picks up the ephemeral resources that spawn from elite kills. |
 | ⚔️ **Arena** | Automates 3v3 matches and Storm Arena — opponent selection, back-to-back battles, rank climbing. |
 | 🛡️ **Auto shield** | Applies protection shields (8h / 12h / 24h) from inventory, on demand or on a schedule. |
-| 🤝 **Alliance & routine** | Alliance help & tech, secret-task assistance, hero recruitment, arms race, full daily routine. |
+| ❤️ **Auto heal** | Heals your hospital automatically once the wounded reach your threshold. |
+| 🤝 **Alliance** | Auto help and alliance-tech donations, in the background. |
+| 🔬 **Secret tasks** | Assists your allies' secret tasks (and sends your own), plus a server scanner. |
+| 🦸 **Hero recruitment** | Draws heroes tab by tab (x1 / x10, free draw first). |
+| 🏆 **Arms Race** | Plays the Arms Race event automatically up to your target tier, reading the score live. |
+| 🖥️ **Multi-account** | BlueStacks / MuMu multi-instance — one tab per account, independent plugins & schedule. |
 | 📱 **Remote control** | Manage plugins and schedules, view logs and rewards from your browser (PWA) — computer or phone. |
 | ⏰ **Scheduling** | Run each feature on time slots; the bot starts and stops itself at the hours you set. |
 
