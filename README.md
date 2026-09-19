@@ -44,16 +44,24 @@ Farm zombies, hunt bosses, run the arena and your full daily routine — **24/7*
 
 <table>
   <tr>
-    <td><img src="https://lwfarmbot.com/screenshots/zombies.png" width="260" alt="Zombie farming"></td>
-    <td><img src="https://lwfarmbot.com/screenshots/arena.png" width="260" alt="Arena"></td>
-    <td><img src="https://lwfarmbot.com/screenshots/treasure.png" width="260" alt="Treasure"></td>
+    <td><img src="screenshots/zombies.png" width="400" alt="Zombie farming"></td>
+    <td><img src="screenshots/rally.png" width="400" alt="Auto rally"></td>
   </tr>
   <tr>
-    <td><img src="https://lwfarmbot.com/screenshots/shield.png" width="260" alt="Auto shield"></td>
-    <td><img src="https://lwfarmbot.com/screenshots/alliance.png" width="260" alt="Alliance"></td>
-    <td><img src="https://lwfarmbot.com/screenshots/pwa-remote.png" width="260" alt="Remote control"></td>
+    <td><img src="screenshots/arms-race.png" width="400" alt="Arms Race planner"></td>
+    <td><img src="screenshots/secret-task.png" width="400" alt="Secret task scanner"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/treasure.png" width="400" alt="Treasure farming"></td>
+    <td><img src="screenshots/alliance.png" width="400" alt="Alliance automation"></td>
   </tr>
 </table>
+
+<br>
+
+<img src="screenshots/pwa-remote.png" width="240" alt="Remote control from your phone">
+
+<sub><b>Remote control</b> — pilot the bot from your phone (PWA).</sub>
 
 </div>
 
